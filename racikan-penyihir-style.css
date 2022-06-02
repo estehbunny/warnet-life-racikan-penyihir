@@ -1,0 +1,202 @@
+/* CSS styles */
+@import url(./assets/css/fonts.css);
+
+html {
+    min-height: 100%;
+}
+
+body {
+    font-family: "Karla", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #d0acd0;
+    /* background-image: linear-gradient(#67577a, #504363); */
+    background-image: linear-gradient(#4c3957, #41354d, #353148, #2f2c3f);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    text-align: center;
+}
+
+.cute-title {
+    font-family: 'Blokletters Viltstift', 'Lucida Sans', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cute {
+    font-family: 'Blokletters Balpen', 'Lucida Sans', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: 'Blokletters Viltstift', 'Lucida Sans', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffa351;
+}
+
+table {
+    border: 1px dashed #a894bd;
+    padding: 0.5rem;
+    margin: 0.5rem auto;
+}
+
+td.center {
+    text-align: center;
+}
+
+td.craft-recipe {
+    text-transform: capitalize;
+}
+
+td.craft {
+    width: 8rem;
+    min-width: 4rem;
+    padding: 1rem;
+    background-color: #504363;
+    border: 3px solid #a894bd;
+}
+
+td.craft.essential {
+    background-color: #d86a6b;
+    border-color: #ac303e;
+}
+
+td.craft.treasure {
+    background-color: #f3df4d;
+    border-color: #ffa74f;
+}
+
+td.craft.magic {
+    background-color: #3078b4;
+    border-color: #508bc3;
+}
+
+td.craft.bonus {
+    background-color: #e683a9;
+    border-color: #cd497d;
+}
+
+td.craft.result {
+    background-color: #ffa351;
+    border-color: #fd823e;
+}
+
+td.craft>img {
+    max-width: 8rem;
+    max-height: 5rem;
+}
+
+tr.crafting-bottom-row {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+td.result {
+    font-weight: bold;
+    font-style: italic;
+    color: #ffa351;
+    text-transform: uppercase;
+}
+
+td.process {
+    width: 5rem;
+    font-size: 3em;
+}
+
+td.arrow {
+    font-size: 2em;
+}
+
+.witch-fanart>img {
+    max-height: 420px;
+    max-width: 80%;
+}
+
+footer {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    font-size: 1.2em;
+}
+
+@media screen and (max-width: 599px) {
+    td.craft {
+        padding: 0.25rem;
+        width: 4rem;
+        min-width: 2rem;
+        border-width: 2px;
+    }
+
+    td.craft>img {
+        max-width: 3.5rem;
+        max-height: 3rem;
+    }
+
+    td.process {
+        min-width: 2rem;
+        width: 2.5rem;
+        font-size: 2em;
+    }
+
+    td.arrow {
+        font-size: 1.5em;
+    }
+
+    tr.crafting-bottom-row {
+        font-size: .9em;
+    }
+
+    footer {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+}
+
+@media screen and (max-width: 449px) {
+    body {
+        font-size: 90%;
+    }
+
+    td.craft {
+        padding: 0.2rem;
+        width: 3rem;
+        border-width: 2px;
+    }
+
+    td.craft>img {
+        max-width: 3rem;
+        max-height: 2.5rem;
+    }
+
+    td.process {
+        min-width: 1rem;
+        width: 2rem;
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width: 359px) {
+    td.craft>img {
+        max-width: 10vmin;
+        max-height: 2rem;
+    }
+    body {
+        font-size: 4vmin;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 879px) {
+    td.craft {
+        padding: 0.5rem;
+        min-width: 3.5rem;
+        width: 5rem;
+    }
+
+    td.craft>img {
+        max-width: 4.5rem;
+        max-height: 3.5rem;
+    }
+
+    tr.crafting-bottom-row {
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 879px) {
+    footer {
+        font-size: 1em;
+    }
+}
