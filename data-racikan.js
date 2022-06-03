@@ -36,8 +36,8 @@ let craftingRecipeEasterEgg1 = {
     description: 'sandal'
   },
   recipe4: {
-    path: 'mouse-gg',
-    description: 'mouse GG'
+    path: 'mouse-gamer',
+    description: 'mouse Gamer'
   },
   result: {
     path: 'easter-egg-cendy',
@@ -151,8 +151,8 @@ let craftingRecipeEasterEgg6 = {
     description: 'sandal'
   },
   recipe4: {
-    path: 'monitor-gg',
-    description: 'Monitor GG'
+    path: 'monitor-4k',
+    description: 'Monitor 4K'
   },
   result: {
     path: 'easter-egg-obit',
@@ -386,8 +386,8 @@ let craftingRecipePaintingWarnetLife = {
     description: 'garam suci'
   },
   recipe3: {
-    path: 'monitor-gg',
-    description: 'Monitor GG'
+    path: 'monitor-4k',
+    description: 'Monitor 4K'
   },
   recipe4: {
     path: 'pc-gg',
