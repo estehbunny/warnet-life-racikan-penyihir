@@ -178,8 +178,8 @@ let craftingRecipeDisc1 = {
     description: 'mangkok legendaris'
   },
   result: {
-    path: 'cd-miawaug',
-    description: 'MiawAug Wibu\nmusic disc'
+    path: 'cd-windah',
+    description: 'Kimi No Life\nmusic disc'
   }
 }
 
@@ -201,8 +201,8 @@ let craftingRecipeDisc2 = {
     description: 'pentungan'
   },
   result: {
-    path: 'cd-windah',
-    description: 'Kimi No Life\nmusic disc'
+    path: 'cd-miawaug',
+    description: 'MiawAug Wibu\nmusic disc'
   }
 }
 
