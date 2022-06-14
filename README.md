@@ -22,6 +22,8 @@ Untuk saat ini, tersedia 22 resep racikan yang terbagi atas 4 kategori, yaitu:
 
 ### Easter Egg
 
+#### Painting
+
 | Item 1        | Item 2     | Item 3  | Item 4  | Hasil Racikan          |
 | :-------:     | :--------: | :-----: | :-----: | :---------------:      |
 | Kotak Rahasia | Garam Suci | Sandal  | Kamera  | Windah Casino Painting |
@@ -30,7 +32,16 @@ Untuk saat ini, tersedia 22 resep racikan yang terbagi atas 4 kategori, yaitu:
 | Kotak Rahasia | Garam Suci | Sandal  | PC GG   | Vote Rizad |
 | Kotak Rahasia | Garam Suci | Sandal  | Patung Bomby | Rio Mascara |
 | Kotak Rahasia | Garam Suci | Sandal  | Bunga Ungu | Les Mefelz |
-| Kotak Rahasia | Garam Suci | Sandal  | Monitor GG | Windah Casino Painting |
+| Kotak Rahasia | Garam Suci | Sandal  | Monitor GG | Pied De Obit |
+
+#### Disc & Stuffs
+
+| Item 1        | Item 2     | Item 3  | Item 4  | Hasil Racikan          |
+| :-------:     | :--------: | :-----: | :-----: | :---------------:      |
+| Kotak Rahasia | Garam Suci | Sandal  | Mangkok Legendaris | Kimi No Life Music Disc |
+| Kotak Rahasia | Garam Suci | Sandal  | Pentungan | MiawAug Wibu Music Disc |
+| Kotak Rahasia | Garam Suci | Sandal  | Gelas Biasa | Gelas MiawAug |
+| Kotak Rahasia | Garam Suci | Sandal  | Gelas MiawAug | Sokocha |
 
 ### Tengkorak (Penting untuk misi utama chapter 3)
 
@@ -40,6 +51,7 @@ Untuk saat ini, tersedia 22 resep racikan yang terbagi atas 4 kategori, yaitu:
 | Pentungan | Kotak Peralatan | Kotak Rahasia  | Jam  | Tengkorak Merah    |
 | Pentungan | Kotak Peralatan | Mangkok Legendaris | PC GG | Tengkorak Hijau    |
 | Pentungan | Kotak Peralatan | Sandal  | Jam         | Tengkorak Biru     |
+| Tengkorak Putih | Tengkorak Merah | Tengkorak Hijau | Tengkorak Biru | Tengkorak Emas |
 
 ### Perlengkapan Penyihir (Witch's Stuffs)
 
